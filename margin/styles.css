@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+}
+
+.title-container{
+    display: flex;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 20px solid #00ccbb;
+}
+
+.title{
+    font-size: 32px;
+    margin: 0;
+}
+
+.cube-of-positions-container{
+    box-sizing: border-box;
+    display: flex;
+    width: 100vw;
+    height: 700px;
+    margin: 0;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+
+
+.cube-of-positions{
+    width: 600px;
+    height: 600px;
+    box-sizing: border-box;
+    background-color: #00ccbb;
+    font-size: 65px;
+}
+
+.cube{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: #ff8899;
+    text-align: center;
+    align-items: center;
+}
+
+.cube p{
+    margin: 0;
+}
+
+.position-1{
+    margin: 0; 
+    /* Cambiar el margin aqi combiara la posiscion de nuestro elemento */
+}
+
+.position-2{
+    margin: 0 auto; 
+    /* Cambiar el margin aqi combiara la posiscion de nuestro elemento */
+}
+
+.position-3{
+    margin: 0 400px; 
+    /* Cambiar el margin aqi combiara la posiscion de nuestro elemento */
+}
+
+.position-4{
+    margin: 200px 0; 
+    /* Cambiar el margin aqi combiara la posiscion de nuestro elemento */
+}
+
+.position-5{
+    margin: 200px auto; 
+    /* Cambiar el margin aqi combiara la posiscion de nuestro elemento */
+}
+
+.position-6{
+    margin: 200px 400px; 
+    /* Cambiar el margin aqi combiara la posiscion de nuestro elemento */
+}
+
+.position-7{
+    margin: 400px 0; 
+    /* Cambiar el margin aqi combiara la posiscion de nuestro elemento */
+}
+
+.position-8{
+    margin: 400px auto; 
+    /* Cambiar el margin aqi combiara la posiscion de nuestro elemento */
+}
+
+.position-9{
+    margin: 400px 400px; 
+    /* Cambiar el margin aqi combiara la posiscion de nuestro elemento */
+}
